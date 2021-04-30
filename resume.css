@@ -1,13 +1,16 @@
-body {		background-color: #EAEAEA;
+body 
+{		background-color: #EAEAEA;
 			color: #666666;
 			font-family: "Arial", "Helvetica", sans-serif;
 }
-h1 {		padding-bottom: 0.5em;
+h1 
+{		padding-bottom: 0.5em;
 			padding-top: 0.5em;
 			font-family: "Georgia", "Times New Roman", serif;
 			letter-spacing: 0.25em;
 }
-h2      {	color: #1976D2;
+h2      
+{	color: #1976D2;
 			font-family: "Georgia", "Times New Roman", serif;
 			text-shadow: 1px 1px #CCCCCC;
 }
